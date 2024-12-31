@@ -499,7 +499,7 @@ input {
   
 }
 
-@media only screen and (max-width:428px){
+@media (min-width: 320px) and (max-width: 480px){
   header{
     width: 250px;
     margin: 0 auto;
