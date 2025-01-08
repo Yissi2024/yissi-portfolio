@@ -43,6 +43,9 @@ nav ul li a {
   padding: 1px;
   margin-top: 2px;
 }
+.titre{
+  text-decoration: none;
+}
 
 section {
   display: flex;
